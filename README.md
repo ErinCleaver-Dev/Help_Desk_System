@@ -59,4 +59,7 @@ Python requirments:
   * python -m venv venv
   * ./venv/Scripts/activate
   *  Djagno setup instructions /https://docs.djangoproject.com/en/3.2/intro/tutorial01/
+  *  Django setup instructions:  https://docs.djangoproject.com/en/1.8/intro/tutorial02/
+
+  *  looking into tool for creating pdfs in react:  https://blog.usejournal.com/lets-make-a-resume-in-react-2c9c5540f51a
   
